@@ -88,7 +88,7 @@ I am transitioning from **Events Management** into **Software Development**, cur
 ### **📚 Currently Learning**
 - System Design & Scalability (Microservices, Caching Strategies)  
 - Cloud Deployment (Docker, Kubernetes, CI/CD)  
-- Advanced Frontend (Next.js, Tailwind CSS)  
+- React, Django, Flask
 
 ---
 
