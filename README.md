@@ -17,7 +17,7 @@ Currently pursuing an **MSc in Computer Science** at **Queen Mary University of 
 
 ---
 
-## 🚀 Final Project (In Progress): Gamified Productivity App
+## 🚀 Final Project (In Progress): [Gamified Productivity App](https://levelup-jet.vercel.app/home)
 
 A web-based system that combines adaptive task scheduling with RPG-style gamification to help users achieve personal goals while building self-discipline.
 
